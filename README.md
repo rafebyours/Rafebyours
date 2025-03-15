@@ -1,7 +1,7 @@
 ## 🚀 Hi, I'm Fly!
 
 - 🎓 Computer Science student at National Institute of Technology, Bandung - Indonesia<br>
-- 🧠 Exploring Python, Machine Learning, and Artificial Intelligence<br>
+- 🧠 Exploring Web, Mobile, Python, Machine Learning, and Artificial Intelligence<br>
 - 🎨 Also passionate about Design
 
   
